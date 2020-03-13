@@ -1,12 +1,4 @@
 {
-    "info": {
-        "year": 2020,
-        "version": "1",
-        "description": "Exported using VGG Image Annotator (http://www.robots.ox.ac.uk/~vgg/software/via/)",
-        "contributor": "",
-        "url": "http://www.robots.ox.ac.uk/~vgg/software/via/",
-        "date_created": "Fri Mar 13 2020 14:57:37 GMT-0500 (Central Daylight Time)"
-    },
     "images": [
         {
             "id": 0,
