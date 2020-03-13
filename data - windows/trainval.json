@@ -12,89 +12,67 @@
             "id": 0,
             "width": 1396,
             "height": 544,
-            "file_name": "0.png",
-            "license": 1,
-            "date_captured": ""
+            "file_name": "0.png"
         },
         {
             "id": 1,
             "width": 1276,
             "height": 613,
-            "file_name": "1.png",
-            "license": 1,
-            "date_captured": ""
+            "file_name": "1.png"
         },
         {
             "id": 2,
             "width": 1673,
             "height": 735,
-            "file_name": "3.png",
-            "license": 1,
-            "date_captured": ""
+            "file_name": "3.png"
         },
         {
             "id": 3,
             "width": 1354,
             "height": 547,
-            "file_name": "casement-windows-1.png",
-            "license": 1,
-            "date_captured": ""
+            "file_name": "casement-windows-1.png"
         },
         {
             "id": 4,
             "width": 999,
             "height": 388,
-            "file_name": "hung-fixed-windows-5.png",
-            "license": 1,
-            "date_captured": ""
+            "file_name": "hung-fixed-windows-5.png"
         },
         {
             "id": 5,
             "width": 364,
             "height": 561,
-            "file_name": "hung-windows-1.png",
-            "license": 1,
-            "date_captured": ""
+            "file_name": "hung-windows-1.png"
         },
         {
             "id": 6,
             "width": 661,
             "height": 367,
-            "file_name": "hung-windows-4.png",
-            "license": 1,
-            "date_captured": ""
+            "file_name": "hung-windows-4.png"
         },
         {
             "id": 7,
             "width": 1050,
             "height": 310,
-            "file_name": "hung-windows-6.png",
-            "license": 1,
-            "date_captured": ""
+            "file_name": "hung-windows-6.png"
         },
         {
             "id": 8,
             "width": 886,
             "height": 316,
-            "file_name": "hung-windows-7.png",
-            "license": 1,
-            "date_captured": ""
+            "file_name": "hung-windows-7.png"
         },
         {
             "id": 9,
             "width": 733,
             "height": 330,
-            "file_name": "single-casement-windows-1.png",
-            "license": 1,
-            "date_captured": ""
+            "file_name": "single-casement-windows-1.png"
         },
         {
             "id": 10,
             "width": 215,
             "height": 235,
-            "file_name": "fixed.jpg",
-            "license": 1,
-            "date_captured": ""
+            "file_name": "fixed.jpg"
         }
     ],
     "annotations": [
@@ -1707,13 +1685,6 @@
                 195
             ],
             "iscrowd": 0
-        }
-    ],
-    "licenses": [
-        {
-            "id": 1,
-            "name": "Unknown",
-            "url": ""
         }
     ],
     "categories": [
