@@ -1,0 +1,3 @@
+[submodule "mmdetection"]
+	path = mmdetection
+	url = https://github.com/ganesmo/mmdetection.git
