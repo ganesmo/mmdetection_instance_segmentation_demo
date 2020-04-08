@@ -27215,8 +27215,8 @@
         },
         {
             "id": 6,
-            "name": "satellite dish antenna",
-            "supercategory": "satellite dish antenna"
+            "name": "dish",
+            "supercategory": "dish"
         },
         {
             "id": 7,
@@ -27225,8 +27225,8 @@
         },
         {
             "id": 8,
-            "name": "window air conditioner",
-            "supercategory": "window air conditioner"
+            "name": "ac unit",
+            "supercategory": "ac unit"
         }
     ]
 }
